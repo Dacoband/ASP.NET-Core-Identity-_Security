@@ -69,3 +69,4 @@ D:\FPT_Learning\ASP.NET-Core-Identity-_Security\IdentityASP.NET\obj\Debug\net6.0
 D:\FPT_Learning\ASP.NET-Core-Identity-_Security\IdentityASP.NET\obj\Debug\net6.0\IdentityASPNet.pdb
 D:\FPT_Learning\ASP.NET-Core-Identity-_Security\IdentityASP.NET\obj\Debug\net6.0\IdentityASPNet.genruntimeconfig.cache
 D:\FPT_Learning\ASP.NET-Core-Identity-_Security\IdentityASP.NET\obj\Debug\net6.0\ref\IdentityASPNet.dll
+D:\FPT_Learning\ASP.NET-Core-Identity-_Security\IdentityASP.NET\obj\Debug\net6.0\IdentityASPNet.sourcelink.json
