@@ -18,6 +18,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\FPT_Learning\ASP.NET-Core-Identity-_Security\IdentityASP.NET
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/FPT_Learning/ASP.NET-Core-Identity-_Security/IdentityASP.NET/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/FPT_Learning/ASP.NET-Core-Identity-_Security/IdentityASP.NET/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
