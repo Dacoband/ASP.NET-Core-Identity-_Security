@@ -8,6 +8,9 @@
     ".NETCoreApp,Version=v6.0": {
       "IdentityASPNet/1.0.0": {
         "dependencies": {
+          "Microsoft.AspNetCore.Authentication.Facebook": "6.0.28",
+          "Microsoft.AspNetCore.Authentication.Google": "6.0.28",
+          "Microsoft.AspNetCore.Authorization": "6.0.28",
           "Microsoft.AspNetCore.Identity": "2.2.0",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.5",
           "Microsoft.EntityFrameworkCore": "6.0.5",
@@ -33,7 +36,7 @@
           "Microsoft.AspNetCore.DataProtection": "2.2.0",
           "Microsoft.AspNetCore.Http": "2.2.0",
           "Microsoft.AspNetCore.Http.Extensions": "2.2.0",
-          "Microsoft.Extensions.Logging.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Logging.Abstractions": "6.0.4",
           "Microsoft.Extensions.Options": "6.0.0",
           "Microsoft.Extensions.WebEncoders": "2.2.0"
         }
@@ -41,7 +44,7 @@
       "Microsoft.AspNetCore.Authentication.Abstractions/2.2.0": {
         "dependencies": {
           "Microsoft.AspNetCore.Http.Abstractions": "2.2.0",
-          "Microsoft.Extensions.Logging.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Logging.Abstractions": "6.0.4",
           "Microsoft.Extensions.Options": "6.0.0"
         }
       },
@@ -55,6 +58,35 @@
           "Microsoft.AspNetCore.Authentication.Abstractions": "2.2.0",
           "Microsoft.AspNetCore.Http": "2.2.0",
           "Microsoft.AspNetCore.Http.Extensions": "2.2.0"
+        }
+      },
+      "Microsoft.AspNetCore.Authentication.Facebook/6.0.28": {
+        "runtime": {
+          "lib/net6.0/Microsoft.AspNetCore.Authentication.Facebook.dll": {
+            "assemblyVersion": "6.0.28.0",
+            "fileVersion": "6.0.2824.12005"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.Authentication.Google/6.0.28": {
+        "runtime": {
+          "lib/net6.0/Microsoft.AspNetCore.Authentication.Google.dll": {
+            "assemblyVersion": "6.0.28.0",
+            "fileVersion": "6.0.2824.12005"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.Authorization/6.0.28": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Metadata": "6.0.28",
+          "Microsoft.Extensions.Logging.Abstractions": "6.0.4",
+          "Microsoft.Extensions.Options": "6.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.AspNetCore.Authorization.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.2824.12005"
+          }
         }
       },
       "Microsoft.AspNetCore.Cryptography.Internal/6.0.5": {
@@ -82,7 +114,7 @@
           "Microsoft.AspNetCore.DataProtection.Abstractions": "2.2.0",
           "Microsoft.AspNetCore.Hosting.Abstractions": "2.2.0",
           "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0",
-          "Microsoft.Extensions.Logging.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Logging.Abstractions": "6.0.4",
           "Microsoft.Extensions.Options": "6.0.0",
           "Microsoft.Win32.Registry": "4.7.0",
           "System.Security.Cryptography.Xml": "4.5.0",
@@ -148,6 +180,14 @@
           "lib/net6.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll": {
             "assemblyVersion": "6.0.5.0",
             "fileVersion": "6.0.522.21802"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.Metadata/6.0.28": {
+        "runtime": {
+          "lib/net6.0/Microsoft.AspNetCore.Metadata.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.2824.12005"
           }
         }
       },
@@ -287,7 +327,7 @@
         "dependencies": {
           "Microsoft.Extensions.Caching.Abstractions": "6.0.0",
           "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0",
-          "Microsoft.Extensions.Logging.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Logging.Abstractions": "6.0.4",
           "Microsoft.Extensions.Options": "6.0.0",
           "Microsoft.Extensions.Primitives": "6.0.0"
         },
@@ -320,7 +360,7 @@
           "Microsoft.Extensions.Configuration.Abstractions": "6.0.0",
           "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0",
           "Microsoft.Extensions.FileProviders.Abstractions": "2.2.0",
-          "Microsoft.Extensions.Logging.Abstractions": "6.0.0"
+          "Microsoft.Extensions.Logging.Abstractions": "6.0.4"
         }
       },
       "Microsoft.Extensions.Identity.Core/6.0.5": {
@@ -353,12 +393,19 @@
         "dependencies": {
           "Microsoft.Extensions.DependencyInjection": "6.0.0",
           "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0",
-          "Microsoft.Extensions.Logging.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Logging.Abstractions": "6.0.4",
           "Microsoft.Extensions.Options": "6.0.0",
           "System.Diagnostics.DiagnosticSource": "6.0.0"
         }
       },
-      "Microsoft.Extensions.Logging.Abstractions/6.0.0": {},
+      "Microsoft.Extensions.Logging.Abstractions/6.0.4": {
+        "runtime": {
+          "lib/net6.0/Microsoft.Extensions.Logging.Abstractions.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.1823.26907"
+          }
+        }
+      },
       "Microsoft.Extensions.ObjectPool/2.2.0": {},
       "Microsoft.Extensions.Options/6.0.0": {
         "dependencies": {
@@ -698,6 +745,27 @@
       "path": "microsoft.aspnetcore.authentication.core/2.2.0",
       "hashPath": "microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512"
     },
+    "Microsoft.AspNetCore.Authentication.Facebook/6.0.28": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-N23UE1wyr4uBIZTLXXJ+t5QqsKdr3y7UUqdpqUuReZkAlCbwhNDkapLgyr0G2AZI5ytwr/bSPiMWr+76/9+IJQ==",
+      "path": "microsoft.aspnetcore.authentication.facebook/6.0.28",
+      "hashPath": "microsoft.aspnetcore.authentication.facebook.6.0.28.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Authentication.Google/6.0.28": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8EKW52qGaZmEVECMdVQJf2S7VM/BAN6IVTIGSE1u5rv6IceIL0TFQDoO3NIy8aBXIT83IX5kxqQrvT3HqIfxmw==",
+      "path": "microsoft.aspnetcore.authentication.google/6.0.28",
+      "hashPath": "microsoft.aspnetcore.authentication.google.6.0.28.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Authorization/6.0.28": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1F5jfI7dvWWJWT3ifAUw9p9hu8oOU140ckNq5egAN0gCNMM9LuCfLzh7o2Lch3lWv8mKyIqOohL1BRBdiTE05g==",
+      "path": "microsoft.aspnetcore.authorization/6.0.28",
+      "hashPath": "microsoft.aspnetcore.authorization.6.0.28.nupkg.sha512"
+    },
     "Microsoft.AspNetCore.Cryptography.Internal/6.0.5": {
       "type": "package",
       "serviceable": true,
@@ -781,6 +849,13 @@
       "sha512": "sha512-C8HaR4C2PaSyMjL2OoPBpeRFD9UfbZ7iNyWaR8qVt0oTc2T/OAK1fj2nPScQzgQN7Z0ZnpsEAfL7/cDZu+SHXQ==",
       "path": "microsoft.aspnetcore.identity.entityframeworkcore/6.0.5",
       "hashPath": "microsoft.aspnetcore.identity.entityframeworkcore.6.0.5.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Metadata/6.0.28": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-OxkKn+575mzpFhqXmgEUsvXFd4tbN+i1RPUrLiVTAGmyQ+Ytff7+K8Y4MFv1bddk0pYdvVmM+q4BqR1Gwn3DDQ==",
+      "path": "microsoft.aspnetcore.metadata/6.0.28",
+      "hashPath": "microsoft.aspnetcore.metadata.6.0.28.nupkg.sha512"
     },
     "Microsoft.AspNetCore.WebUtilities/2.2.0": {
       "type": "package",
@@ -922,12 +997,12 @@
       "path": "microsoft.extensions.logging/6.0.0",
       "hashPath": "microsoft.extensions.logging.6.0.0.nupkg.sha512"
     },
-    "Microsoft.Extensions.Logging.Abstractions/6.0.0": {
+    "Microsoft.Extensions.Logging.Abstractions/6.0.4": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-/HggWBbTwy8TgebGSX5DBZ24ndhzi93sHUBDvP1IxbZD7FDokYzdAr6+vbWGjw2XAfR2EJ1sfKUotpjHnFWPxA==",
-      "path": "microsoft.extensions.logging.abstractions/6.0.0",
-      "hashPath": "microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512"
+      "sha512": "sha512-K14wYgwOfKVELrUh5eBqlC8Wvo9vvhS3ZhIvcswV2uS/ubkTRPSQsN557EZiYUSSoZNxizG+alN4wjtdyLdcyw==",
+      "path": "microsoft.extensions.logging.abstractions/6.0.4",
+      "hashPath": "microsoft.extensions.logging.abstractions.6.0.4.nupkg.sha512"
     },
     "Microsoft.Extensions.ObjectPool/2.2.0": {
       "type": "package",

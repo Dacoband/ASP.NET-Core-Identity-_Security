@@ -1,8 +1,8 @@
-﻿using IdentityASP.NET.Models;
+﻿using IdentityASPNet.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
-namespace IdentityASP.NET.Controllers
+namespace IdentityASPNet.Controllers
 {
     public class HomeController : Controller
     {

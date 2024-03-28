@@ -18,6 +18,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\FPT_Learning\ASP.NET-Core-Identity-_Security\IdentityASP.NET
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/FPT_Learning/ASP.NET-Core-Identity-_Security/IdentityASP.NET/Views/Account/ExternalLoginViewModel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxFeHRlcm5hbExvZ2luVmlld01vZGVsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/FPT_Learning/ASP.NET-Core-Identity-_Security/IdentityASP.NET/Views/Account/ForgotPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxGb3Jnb3RQYXNzd29yZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -38,12 +42,28 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/FPT_Learning/ASP.NET-Core-Identity-_Security/IdentityASP.NET/Views/Account/ResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZXNldFBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT_Learning/ASP.NET-Core-Identity-_Security/IdentityASP.NET/Views/Account/ResetPasswordConfirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZXNldFBhc3N3b3JkQ29uZmlybWF0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/FPT_Learning/ASP.NET-Core-Identity-_Security/IdentityASP.NET/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/FPT_Learning/ASP.NET-Core-Identity-_Security/IdentityASP.NET/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT_Learning/ASP.NET-Core-Identity-_Security/IdentityASP.NET/Views/Role/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT_Learning/ASP.NET-Core-Identity-_Security/IdentityASP.NET/Views/Role/Upsert.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxVcHNlcnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/FPT_Learning/ASP.NET-Core-Identity-_Security/IdentityASP.NET/Views/Shared/Error.cshtml]

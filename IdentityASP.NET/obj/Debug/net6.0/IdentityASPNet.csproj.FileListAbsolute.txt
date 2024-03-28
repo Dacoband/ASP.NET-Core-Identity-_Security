@@ -73,3 +73,8 @@ D:\FPT_Learning\ASP.NET-Core-Identity-_Security\IdentityASP.NET\obj\Debug\net6.0
 D:\FPT_Learning\ASP.NET-Core-Identity-_Security\IdentityASP.NET\obj\Debug\net6.0\IdentityASPNet.pdb
 D:\FPT_Learning\ASP.NET-Core-Identity-_Security\IdentityASP.NET\obj\Debug\net6.0\IdentityASPNet.genruntimeconfig.cache
 D:\FPT_Learning\ASP.NET-Core-Identity-_Security\IdentityASP.NET\obj\Debug\net6.0\ref\IdentityASPNet.dll
+D:\FPT_Learning\ASP.NET-Core-Identity-_Security\IdentityASP.NET\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Facebook.dll
+D:\FPT_Learning\ASP.NET-Core-Identity-_Security\IdentityASP.NET\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Google.dll
+D:\FPT_Learning\ASP.NET-Core-Identity-_Security\IdentityASP.NET\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+D:\FPT_Learning\ASP.NET-Core-Identity-_Security\IdentityASP.NET\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+D:\FPT_Learning\ASP.NET-Core-Identity-_Security\IdentityASP.NET\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll

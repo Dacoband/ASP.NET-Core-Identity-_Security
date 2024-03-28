@@ -1,4 +1,4 @@
-namespace IdentityASP.NET.Models
+namespace IdentityASPNet.Models
 {
     public class ErrorViewModel
     {
