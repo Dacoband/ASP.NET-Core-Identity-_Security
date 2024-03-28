@@ -63,10 +63,10 @@ D:\FPT_Learning\ASP.NET-Core-Identity-_Security\IdentityASP.NET\obj\Debug\net6.0
 D:\FPT_Learning\ASP.NET-Core-Identity-_Security\IdentityASP.NET\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 D:\FPT_Learning\ASP.NET-Core-Identity-_Security\IdentityASP.NET\obj\Debug\net6.0\scopedcss\bundle\IdentityASPNet.styles.css
 D:\FPT_Learning\ASP.NET-Core-Identity-_Security\IdentityASP.NET\obj\Debug\net6.0\scopedcss\projectbundle\IdentityASPNet.bundle.scp.css
-D:\FPT_Learning\ASP.NET-Core-Identity-_Security\IdentityASP.NET\obj\Debug\net6.0\IdentityASPNet.csproj.CopyComplete
 D:\FPT_Learning\ASP.NET-Core-Identity-_Security\IdentityASP.NET\obj\Debug\net6.0\IdentityASPNet.dll
 D:\FPT_Learning\ASP.NET-Core-Identity-_Security\IdentityASP.NET\obj\Debug\net6.0\refint\IdentityASPNet.dll
 D:\FPT_Learning\ASP.NET-Core-Identity-_Security\IdentityASP.NET\obj\Debug\net6.0\IdentityASPNet.pdb
 D:\FPT_Learning\ASP.NET-Core-Identity-_Security\IdentityASP.NET\obj\Debug\net6.0\IdentityASPNet.genruntimeconfig.cache
 D:\FPT_Learning\ASP.NET-Core-Identity-_Security\IdentityASP.NET\obj\Debug\net6.0\ref\IdentityASPNet.dll
 D:\FPT_Learning\ASP.NET-Core-Identity-_Security\IdentityASP.NET\obj\Debug\net6.0\IdentityASPNet.sourcelink.json
+D:\FPT_Learning\ASP.NET-Core-Identity-_Security\IdentityASP.NET\obj\Debug\net6.0\Identity.16157CC4.Up2Date

@@ -1,0 +1,266 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FPT_Learning\\ASP.NET-Core-Identity-_Security\\IdentityASP.NET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B85A7EB4-56B1-457B-8735-710CAEE740B0}|IdentityASPNet.csproj|d:\\fpt_learning\\asp.net-core-identity-_security\\identityasp.net\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B85A7EB4-56B1-457B-8735-710CAEE740B0}|IdentityASPNet.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85A7EB4-56B1-457B-8735-710CAEE740B0}|IdentityASPNet.csproj|d:\\fpt_learning\\asp.net-core-identity-_security\\identityasp.net\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B85A7EB4-56B1-457B-8735-710CAEE740B0}|IdentityASPNet.csproj|solutionrelative:viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85A7EB4-56B1-457B-8735-710CAEE740B0}|IdentityASPNet.csproj|d:\\fpt_learning\\asp.net-core-identity-_security\\identityasp.net\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B85A7EB4-56B1-457B-8735-710CAEE740B0}|IdentityASPNet.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85A7EB4-56B1-457B-8735-710CAEE740B0}|IdentityASPNet.csproj|d:\\fpt_learning\\asp.net-core-identity-_security\\identityasp.net\\views\\account\\lockout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B85A7EB4-56B1-457B-8735-710CAEE740B0}|IdentityASPNet.csproj|solutionrelative:views\\account\\lockout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85A7EB4-56B1-457B-8735-710CAEE740B0}|IdentityASPNet.csproj|d:\\fpt_learning\\asp.net-core-identity-_security\\identityasp.net\\views\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B85A7EB4-56B1-457B-8735-710CAEE740B0}|IdentityASPNet.csproj|solutionrelative:views\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85A7EB4-56B1-457B-8735-710CAEE740B0}|IdentityASPNet.csproj|d:\\fpt_learning\\asp.net-core-identity-_security\\identityasp.net\\viewmodels\\forgotpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B85A7EB4-56B1-457B-8735-710CAEE740B0}|IdentityASPNet.csproj|solutionrelative:viewmodels\\forgotpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85A7EB4-56B1-457B-8735-710CAEE740B0}|IdentityASPNet.csproj|d:\\fpt_learning\\asp.net-core-identity-_security\\identityasp.net\\services\\sendgridemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B85A7EB4-56B1-457B-8735-710CAEE740B0}|IdentityASPNet.csproj|solutionrelative:services\\sendgridemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85A7EB4-56B1-457B-8735-710CAEE740B0}|IdentityASPNet.csproj|d:\\fpt_learning\\asp.net-core-identity-_security\\identityasp.net\\helpers\\authmessagesenderoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B85A7EB4-56B1-457B-8735-710CAEE740B0}|IdentityASPNet.csproj|solutionrelative:helpers\\authmessagesenderoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85A7EB4-56B1-457B-8735-710CAEE740B0}|IdentityASPNet.csproj|d:\\fpt_learning\\asp.net-core-identity-_security\\identityasp.net\\interfaces\\isendgridemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B85A7EB4-56B1-457B-8735-710CAEE740B0}|IdentityASPNet.csproj|solutionrelative:interfaces\\isendgridemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85A7EB4-56B1-457B-8735-710CAEE740B0}|IdentityASPNet.csproj|d:\\fpt_learning\\asp.net-core-identity-_security\\identityasp.net\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B85A7EB4-56B1-457B-8735-710CAEE740B0}|IdentityASPNet.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85A7EB4-56B1-457B-8735-710CAEE740B0}|IdentityASPNet.csproj|d:\\fpt_learning\\asp.net-core-identity-_security\\identityasp.net\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B85A7EB4-56B1-457B-8735-710CAEE740B0}|IdentityASPNet.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85A7EB4-56B1-457B-8735-710CAEE740B0}|IdentityASPNet.csproj|d:\\fpt_learning\\asp.net-core-identity-_security\\identityasp.net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B85A7EB4-56B1-457B-8735-710CAEE740B0}|IdentityASPNet.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85A7EB4-56B1-457B-8735-710CAEE740B0}|IdentityASPNet.csproj|d:\\fpt_learning\\asp.net-core-identity-_security\\identityasp.net\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B85A7EB4-56B1-457B-8735-710CAEE740B0}|IdentityASPNet.csproj|solutionrelative:viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85A7EB4-56B1-457B-8735-710CAEE740B0}|IdentityASPNet.csproj|d:\\fpt_learning\\asp.net-core-identity-_security\\identityasp.net\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B85A7EB4-56B1-457B-8735-710CAEE740B0}|IdentityASPNet.csproj|solutionrelative:models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ISendGridEmail.cs",
+              "DocumentMoniker": "D:\\FPT_Learning\\ASP.NET-Core-Identity-_Security\\IdentityASP.NET\\Interfaces\\ISendGridEmail.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ISendGridEmail.cs",
+              "ToolTip": "D:\\FPT_Learning\\ASP.NET-Core-Identity-_Security\\IdentityASP.NET\\Interfaces\\ISendGridEmail.cs",
+              "RelativeToolTip": "Interfaces\\ISendGridEmail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T16:05:37.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthMessageSenderOptions.cs",
+              "DocumentMoniker": "D:\\FPT_Learning\\ASP.NET-Core-Identity-_Security\\IdentityASP.NET\\Helpers\\AuthMessageSenderOptions.cs",
+              "RelativeDocumentMoniker": "Helpers\\AuthMessageSenderOptions.cs",
+              "ToolTip": "D:\\FPT_Learning\\ASP.NET-Core-Identity-_Security\\IdentityASP.NET\\Helpers\\AuthMessageSenderOptions.cs",
+              "RelativeToolTip": "Helpers\\AuthMessageSenderOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T16:02:24.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SendGridEmail.cs",
+              "DocumentMoniker": "D:\\FPT_Learning\\ASP.NET-Core-Identity-_Security\\IdentityASP.NET\\Services\\SendGridEmail.cs",
+              "RelativeDocumentMoniker": "Services\\SendGridEmail.cs",
+              "ToolTip": "D:\\FPT_Learning\\ASP.NET-Core-Identity-_Security\\IdentityASP.NET\\Services\\SendGridEmail.cs",
+              "RelativeToolTip": "Services\\SendGridEmail.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAkwAEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T16:00:08.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ForgotPasswordViewModel.cs",
+              "DocumentMoniker": "D:\\FPT_Learning\\ASP.NET-Core-Identity-_Security\\IdentityASP.NET\\ViewModels\\ForgotPasswordViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ForgotPasswordViewModel.cs",
+              "ToolTip": "D:\\FPT_Learning\\ASP.NET-Core-Identity-_Security\\IdentityASP.NET\\ViewModels\\ForgotPasswordViewModel.cs",
+              "RelativeToolTip": "ViewModels\\ForgotPasswordViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T15:52:15.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ForgotPassword.cshtml",
+              "DocumentMoniker": "D:\\FPT_Learning\\ASP.NET-Core-Identity-_Security\\IdentityASP.NET\\Views\\Account\\ForgotPassword.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\ForgotPassword.cshtml",
+              "ToolTip": "D:\\FPT_Learning\\ASP.NET-Core-Identity-_Security\\IdentityASP.NET\\Views\\Account\\ForgotPassword.cshtml",
+              "RelativeToolTip": "Views\\Account\\ForgotPassword.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T15:49:27.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Lockout.cshtml",
+              "DocumentMoniker": "D:\\FPT_Learning\\ASP.NET-Core-Identity-_Security\\IdentityASP.NET\\Views\\Account\\Lockout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Lockout.cshtml",
+              "ToolTip": "D:\\FPT_Learning\\ASP.NET-Core-Identity-_Security\\IdentityASP.NET\\Views\\Account\\Lockout.cshtml",
+              "RelativeToolTip": "Views\\Account\\Lockout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T15:43:58.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FPT_Learning\\ASP.NET-Core-Identity-_Security\\IdentityASP.NET\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\FPT_Learning\\ASP.NET-Core-Identity-_Security\\IdentityASP.NET\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBkAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T15:35:23.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\FPT_Learning\\ASP.NET-Core-Identity-_Security\\IdentityASP.NET\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\LoginViewModel.cs",
+              "ToolTip": "D:\\FPT_Learning\\ASP.NET-Core-Identity-_Security\\IdentityASP.NET\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "ViewModels\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T12:37:21.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\FPT_Learning\\ASP.NET-Core-Identity-_Security\\IdentityASP.NET\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\FPT_Learning\\ASP.NET-Core-Identity-_Security\\IdentityASP.NET\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAAAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T12:34:20.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\FPT_Learning\\ASP.NET-Core-Identity-_Security\\IdentityASP.NET\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
+              "ToolTip": "D:\\FPT_Learning\\ASP.NET-Core-Identity-_Security\\IdentityASP.NET\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T12:28:10.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\FPT_Learning\\ASP.NET-Core-Identity-_Security\\IdentityASP.NET\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\FPT_Learning\\ASP.NET-Core-Identity-_Security\\IdentityASP.NET\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABAAAAAAAAAAAAAowB8AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T12:27:40.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "D:\\FPT_Learning\\ASP.NET-Core-Identity-_Security\\IdentityASP.NET\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "D:\\FPT_Learning\\ASP.NET-Core-Identity-_Security\\IdentityASP.NET\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T12:27:16.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\FPT_Learning\\ASP.NET-Core-Identity-_Security\\IdentityASP.NET\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "D:\\FPT_Learning\\ASP.NET-Core-Identity-_Security\\IdentityASP.NET\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAD4vzEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T12:26:55.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "D:\\FPT_Learning\\ASP.NET-Core-Identity-_Security\\IdentityASP.NET\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "Models\\AppUser.cs",
+              "ToolTip": "D:\\FPT_Learning\\ASP.NET-Core-Identity-_Security\\IdentityASP.NET\\Models\\AppUser.cs",
+              "RelativeToolTip": "Models\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T12:22:09.336Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
