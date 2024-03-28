@@ -1,7 +1,11 @@
 using IdentityASP.NET.Data;
 using IdentityASP.NET.Models;
+using IdentityASPNet.Helpers;
+using IdentityASPNet.Interfaces;
+using IdentityASPNet.Services;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using SendGrid;
 
 namespace IdentityASP.NET
 {
@@ -17,6 +21,8 @@ namespace IdentityASP.NET
 
             builder.Services.AddIdentity<IdentityUser, IdentityRole>().AddEntityFrameworkStores<ApplicationDbContext>().AddDefaultTokenProviders();
             builder.Services.AddControllersWithViews();
+            builder.Services.AddTransient<ISendGridEmail, SendGridEmail>();
+            builder.Services.Configure<AuthMessageSenderOptions>(builder.Configuration.GetSection("SendGrid"));
             builder.Services.Configure<IdentityOptions>(opt =>
             {
                 opt.Password.RequiredLength = 5;

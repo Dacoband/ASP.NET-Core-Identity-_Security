@@ -1,4 +1,5 @@
 ﻿using IdentityASP.NET.Models;
+using IdentityASPNet.Interfaces;
 using IdentityASPNet.ViewModels;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
@@ -9,7 +10,7 @@ namespace IdentityASPNet.Controllers
     {
         private readonly UserManager<IdentityUser> _userManager;
         private readonly SignInManager<IdentityUser> _signInManager;
-
+        private readonly ISendGridEmail _sendGridEmail;
         public AccountController(UserManager<IdentityUser> userManager, SignInManager<IdentityUser> signInManager)
         {
             _userManager = userManager;
@@ -27,12 +28,7 @@ namespace IdentityASPNet.Controllers
             loginViewModel.ReturnUrl = returnUrl ?? Url.Content("~/");
             return View(loginViewModel);
         }
-        
-        [HttpGet]
-        public IActionResult ForgotPassword()
-        {
-            return View();
-        }
+       
 
         [HttpPost]
         public async Task<IActionResult> ForgotPassword(ForgotPasswordViewModel model)
@@ -52,6 +48,12 @@ namespace IdentityASPNet.Controllers
                 return RedirectToAction("ForgotPasswordConfirmation");
             }
             return View(model);
+        }
+
+        [HttpGet]
+        public IActionResult ForgotPassword()
+        {
+            return View();
         }
 
         [HttpPost]

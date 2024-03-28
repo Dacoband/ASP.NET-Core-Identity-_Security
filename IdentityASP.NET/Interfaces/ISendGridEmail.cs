@@ -1,6 +1,8 @@
-﻿namespace IdentityASPNet.Interfaces
+﻿using System.Threading.Tasks;
+
+namespace IdentityASPNet.Interfaces
 {
-    public class ISendGridEmail
+    public interface ISendGridEmail
     {
         Task SendEmailAsync(string toEmail, string subject, string message);
     }
